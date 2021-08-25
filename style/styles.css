@@ -112,13 +112,13 @@ section ul p {
     section {
         padding: 0;
         padding:50px;
-        width: 450px;
+        width: 350px;
         border-radius: 0 0 10px 10px;
     }
    
     section h1,
     section .text {
-
+        font-size: 40px;
         text-align: center;
     }
 
